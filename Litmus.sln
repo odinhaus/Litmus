@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Litmus", "Litmus\Litmus.csproj", "{58AEE053-5605-416E-B993-DC1D7A30D5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Debug|iPhone.Build.0 = Debug|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Release|iPhone.ActiveCfg = Release|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Release|iPhone.Build.0 = Release|iPhone
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{58AEE053-5605-416E-B993-DC1D7A30D5D0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
